@@ -1,4 +1,4 @@
-# NextGen QA - Component 4
+# NextGen QA 
 ## ML-Based Test Quality Prediction & Requirements Traceability Matrix (RTM)
 
 **Student**: Rashani K.G.M  
