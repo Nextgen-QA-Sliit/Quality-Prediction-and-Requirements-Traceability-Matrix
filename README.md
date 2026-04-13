@@ -321,25 +321,6 @@ All rights reserved.
 
 ---
 
-## 🙏 Acknowledgments
 
-- SLIIT Faculty of Computing
-- Department of Software Engineering
-- Supervisor: Ms. Suriya Kumari
-- Team members: Jinad I.A.G (C1), Abeygunasekara D.T (C2), Ranasinghe S.I (C3)
 
----
 
-## 📅 Timeline
-
-- **Jan 2026**: Proposal submitted
-- **Mar 2026**: Development started
-- **Aug 2026**: Expected completion
-- **Dec 2026**: Final submission
-
----
-
-*Last Updated: March 28, 2026*
-# Quality-Prediction-and-Requirements-Traceability-Matrix
-# Quality-Prediction-and-Requirements-Traceability-Matrix
-# Quality-Prediction-and-Requirements-Traceability-Matrix
