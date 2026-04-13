@@ -1,0 +1,42 @@
+{
+  "model_name": "GradientBoosting",
+  "training_timestamp": "2026-03-28T13:46:14.223498",
+  "test_metrics": {
+    "mae": 3.27021045712622,
+    "rmse": 3.991091959432328,
+    "r2": 0.9483842576874448
+  },
+  "best_parameters": {
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "min_samples_split": 2,
+    "n_estimators": 300
+  },
+  "all_results": [
+    {
+      "model": "GradientBoosting",
+      "mae": 3.372179075663198,
+      "mse": 15.613337716502016,
+      "r2": 0.930989703545868,
+      "params": {
+        "learning_rate": 0.05,
+        "max_depth": 3,
+        "min_samples_split": 2,
+        "n_estimators": 300
+      }
+    },
+    {
+      "model": "RandomForest",
+      "mae": 4.228675316084962,
+      "mse": 27.20958312948515,
+      "r2": 0.8797347862286676,
+      "params": {
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 200
+      }
+    }
+  ],
+  "targets_met": true
+}
